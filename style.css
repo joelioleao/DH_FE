@@ -9,7 +9,7 @@ html * {
 span {
     color: black;
     font-weight: bold;
-    background-color: silver;
+    background-color: rgba(192, 192, 192, 0.37);
 }
 
 #titulo {
