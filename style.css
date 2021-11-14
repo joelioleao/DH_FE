@@ -13,13 +13,13 @@ span {
 }
 
 #titulo {
-    color: black;
+    color: white;
     text-align: center;
     font-family: 'Merienda', cursive;
     font-size: 35px;
     font-style: oblique;
     font-weight: 200px, bold;
-    background-color: silver;
+    background-color: rgba(0, 0, 0, 0.562);
     padding: 10px;
 }
 

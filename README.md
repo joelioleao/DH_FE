@@ -1,2 +1,4 @@
 # DH_FE
-Checkpoints
+Checkpoint 1 de Front-End
+Aluno: Joelio de Menezes Leão 
+Orientador: Willian Sant Anna
