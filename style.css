@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Merienda:wght@400;700&display=swap');
+
+html * {
+    color: white;
+    margin: 0;
+    padding: 0;
+}
+
+span {
+    color: black;
+    font-weight: bold;
+    background-color: silver;
+}
+
+#titulo {
+    color: black;
+    text-align: center;
+    font-family: 'Merienda', cursive;
+    font-size: 35px;
+    font-style: oblique;
+    font-weight: 200px, bold;
+    background-color: silver;
+    padding: 10px;
+}
+
+#resumo {
+    padding: 20px;
+    text-align: center;
+    font-family: 'Merienda', 'Times New Roman', Times, serif;
+    font-size: 20px;
+    font-style: oblique;
+}
+
+ul {
+    text-align: center;
+    font-family:'Merienda', 'Times New Roman', Times, serif;
+    font-size: 20px;
+    font-style: oblique;
+    margin: 20px 0px;
+}
+
+#corpo {
+    background-image: url("imagens/background.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+#conteudo {
+    text-align: center;
+}
+
+.secao {
+    color: white;
+    text-align: center;
+    font-family: 'Merienda', cursive;
+    font-size: 35px;
+    font-style: oblique;
+    font-weight: 200;
+    padding: 10px;
+}
+
+#rodape {
+    text-align: center;
+    padding: 20px;
+}
+
+.icones {
+    margin: 20px;
+    width: 70px;
+    height: 70px;
+}
